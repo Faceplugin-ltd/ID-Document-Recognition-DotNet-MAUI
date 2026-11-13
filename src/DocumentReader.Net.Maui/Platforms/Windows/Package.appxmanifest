@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" IgnorableNamespaces="uap mp">
+  <Identity Name="com.faceplugin.documentreader" Publisher="CN=FacePlugin" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="A1B2C3D4-E5F6-7890-ABCD-EF1234567890" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <Properties>
+    <DisplayName>Document Reader</DisplayName>
+    <PublisherDisplayName>FacePlugin</PublisherDisplayName>
+    <Logo>$placeholder$.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
+      <uap:VisualElements DisplayName="Document Reader" Description="FacePlugin Document Reader" Square150x150Logo="$placeholder$.png" Square44x44Logo="$placeholder$.png" BackgroundColor="transparent">
+        <uap:DefaultTile />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

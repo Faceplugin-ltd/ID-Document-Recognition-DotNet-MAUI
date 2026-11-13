@@ -1,0 +1,2 @@
+Demo images live in Resources/Images (fp_logo.png and tile icons).
+Native engine binaries stay under Platforms/Android and Platforms/iOS.

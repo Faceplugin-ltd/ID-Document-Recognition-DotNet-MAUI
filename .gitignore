@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.DS_Store
+
+# Native runtimes are downloaded, not committed.
+src/DocumentReader.Net.Maui/Platforms/Android/libs/*.aar
+src/DocumentReader.Net.Maui/Platforms/iOS/Frameworks/**
+!src/DocumentReader.Net.Maui/Platforms/iOS/Frameworks/README.md
+!src/DocumentReader.Net.Maui/Platforms/Android/libs/README.md
+src/DocumentReader.Net.Maui/Platforms/Windows/native/**
+!src/DocumentReader.Net.Maui/Platforms/Windows/native/README.md
+!src/DocumentReader.Net.Maui/Platforms/Windows/native/lib/cpu/README.md
