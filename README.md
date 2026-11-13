@@ -203,9 +203,9 @@ Windows takes an FP1 key in `LicenseKeys.Windows`, or one line in `src/DocumentR
 
 The code below shows how to use the license:
 
-[https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/main/src/DocumentReader.Net.Maui/LicenseKeys.cs#L10-L29](https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/main/src/DocumentReader.Net.Maui/LicenseKeys.cs#L10-L29)
+[https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/c15925b7d0bc852fd8b6c737b34258efa54b0bb0/src/DocumentReader.Net.Maui/LicenseKeys.cs#L10-L29](https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/c15925b7d0bc852fd8b6c737b34258efa54b0bb0/src/DocumentReader.Net.Maui/LicenseKeys.cs#L10-L29)
 
-[https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/main/src/DocumentReader.Net.Maui/DemoUi.cs#L33-L48](https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/main/src/DocumentReader.Net.Maui/DemoUi.cs#L33-L48)
+[https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/c15925b7d0bc852fd8b6c737b34258efa54b0bb0/src/DocumentReader.Net.Maui/DemoUi.cs#L33-L48](https://github.com/Faceplugin-ltd/ID-Document-Recognition-DotNet-MAUI/blob/c15925b7d0bc852fd8b6c737b34258efa54b0bb0/src/DocumentReader.Net.Maui/DemoUi.cs#L33-L48)
 
 Please [contact us](#contact) to get a license for **your own app**.
 
